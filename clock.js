@@ -3,6 +3,7 @@ const mintutes=document.querySelector("#minutes")
 const seconds=document.querySelector("#seconds")
 const section=document.querySelector("#section")
 
+//clock
 const btn=document.querySelector("#btn")
 btn,addEventListener("click",()=>{
     if(btn.innerHTML==="Dark"){
